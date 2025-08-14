@@ -31,7 +31,7 @@ expertise = {
 - **[Curriculum Curator](https://github.com/michael-borck/curriculum-curator)** - AI-based learning material creator
 
 ### 📫 Connect With Me
-[📄 Full CV](https://michael-borck.github.io/cv) | [📚 Educational Platform](https://michaelborck.education) | [💼 Portfolio](https://michaelborck.dev) | [💌 Email](mailto:michael.borck@curtin.edu.au) | [🔗 LinkedIn](https://linkedin.com/in/michaelborck)
+[📄 Full CV](https://resume.michaelborck.dev) | [📚 Educational Platform](https://michaelborck.education) | [💼 Portfolio](https://michaelborck.dev) | [💌 Email](mailto:michael.borck@curtin.edu.au) | [🔗 LinkedIn](https://linkedin.com/in/michaelborck)
 
 ---
 
