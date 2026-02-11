@@ -1,40 +1,15 @@
-# Hi, I'm Michael Borck 👋
+# Michael Borck
 
-## 🎯 AI Leader & Educational Innovator
-**Teaching Philosophy:** "Make Contact Count" - maximising impact through every student interaction
+University lecturer, maker, and occasional wanderer.
 
-### 🏛️ Current Role
-**Lecturer & AI Leader** @ Curtin University  
-School of Marketing and Management | Technical Lead, Business AI Research Group
+I build educational tools, restore vintage 3D printers, 
+and stare at the sky through too many telescopes.
 
-### 🚀 Impact & Achievements
-- 📚 **Author** of 4 technical books (Creative Commons licensed)
-- 🎓 **500+ students** taught across AI & cybersecurity programs
-- 💯 **100% satisfaction** scores across multiple units
-- 🏢 **100+ professionals** trained in AI across 15+ companies
-- 🛠️ **290+ downloads** of open-source educational tools
-- 🔬 **6+ publications** in computer vision & machine learning
+## Find things
 
-### 💻 Tech Stack
-```python
-expertise = {
-    "languages": ["Python", "C/C++", "JavaScript", "Java"],
-    "ai_ml": ["Langchain", "TensorFlow", "PyTorch"],
-    "web": ["React", "Flask", "FastAPI"],
-    "security": ["Digital Forensics", "Network Security", "Pen Testing"]
-}
-```
+Repos are organised by topic tags:
+`edtech` · `curtin` · `book` · `8020workshop` · `cybersecurity` · `tool` · `presentation`
 
-### 🎨 Featured Projects
-- **[Reality Reigns](https://github.com/michael-borck/reality-reigns)** - Interactive fiction storytelling platform
-- **[Talk Buddy](https://github.com/michael-borck/talk-buddy)** - AI-powered conversation practice tool
-- **[Curriculum Curator](https://github.com/michael-borck/curriculum-curator)** - AI-based learning material creator
+## Elsewhere
 
-### 📫 Connect With Me
-[📄 Full CV](https://resume.michaelborck.dev) | [📚 Educational Platform](https://michaelborck.education) | [💼 Portfolio](https://michaelborck.dev) | [💌 Email](mailto:michael.borck@curtin.edu.au) | [🔗 LinkedIn](https://linkedin.com/in/michaelborck)
-
----
-
-*"The unit was hard, but fun, because he clearly cared about our learning"* - Student Feedback
-
-![Profile Views](https://komarev.com/ghpvc/?username=michael-borck&color=blue)
+8020workshop.com · michaelborck.dev · retroverse.com
