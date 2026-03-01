@@ -1,5 +1,9 @@
 # Michael Borck
 
+<!-- BADGES:START -->
+[![cli-tools](https://img.shields.io/badge/-cli--tools-blue?style=flat-square)](https://github.com/topics/cli-tools) [![cybersecurity](https://img.shields.io/badge/-cybersecurity-f44336?style=flat-square)](https://github.com/topics/cybersecurity) [![desktop-apps](https://img.shields.io/badge/-desktop--apps-blue?style=flat-square)](https://github.com/topics/desktop-apps) [![developer-tools](https://img.shields.io/badge/-developer--tools-blue?style=flat-square)](https://github.com/topics/developer-tools) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![education](https://img.shields.io/badge/-education-blue?style=flat-square)](https://github.com/topics/education) [![presentations](https://img.shields.io/badge/-presentations-blue?style=flat-square)](https://github.com/topics/presentations) [![research](https://img.shields.io/badge/-research-3f51b5?style=flat-square)](https://github.com/topics/research) [![teaching-materials](https://img.shields.io/badge/-teaching--materials-blue?style=flat-square)](https://github.com/topics/teaching-materials) [![university](https://img.shields.io/badge/-university-blue?style=flat-square)](https://github.com/topics/university)
+<!-- BADGES:END -->
+
 University lecturer, maker, and occasional sky-watcher.
 
 I build educational tools, restore vintage 3D printers, and spend too much time staring through telescopes.
