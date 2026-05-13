@@ -10,7 +10,7 @@ I build educational tools, restore vintage 3D printers, and spend too much time 
 
 ## 🔭 What I Do
 
-- **Teaching** — Business programming, cybersecurity, and AI literacy at Curtin University
+- **Teaching** — Business programming, Cybersecurity, and AI literacy
 - **Building** — Desktop apps and CLI tools for educators
 - **Making** — 3D printer restoration and astronomy projects at [8020workshop.com](https://8020workshop.com)
 
