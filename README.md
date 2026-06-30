@@ -30,6 +30,7 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [research.borck.dev](https://research.borck.dev) | Interactive research visualizations |
 | [simulations.borck.education](https://simulations.borck.education) | Physics & science simulations |
 | [8020workshop.com](https://8020workshop.com) | Maker blog & opinions |
+| [retroverse.studio](https://retroverse.studio) | Indie game studio |
 
 ## 🧪 LocoLab — local LLMs on consumer hardware
 
@@ -59,8 +60,3 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [`presentation`](https://github.com/michael-borck?tab=repositories&q=topic:presentation) | 19 | Workshops, seminars & talks |
 | [`cybersecurity`](https://github.com/michael-borck?tab=repositories&q=topic:cybersecurity) | 17 | Security labs & forensics |
 | [`maker`](https://github.com/michael-borck?tab=repositories&q=topic:maker) | 5 | Astronomy, 3D printing & hardware |
-
-## 🔗 Elsewhere
-
-- [retroverse-studios](https://github.com/retroverse-studios) — indie game experiments
-- [kern-linux](https://github.com/kern-linux) — framebuffer-first Linux
