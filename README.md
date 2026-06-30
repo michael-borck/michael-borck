@@ -11,6 +11,7 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 ## 🔭 What I Do
 
 - **Teaching** — Business programming, Cybersecurity, and AI literacy
+- **Consulting** — AI literacy, governance & data sovereignty for Australian regulated small businesses ([borck.consulting](https://borck.consulting))
 - **Building** — Desktop apps and CLI tools for educators
 - **Research** — Local LLMs on consumer hardware (LocoLab)
 - **Making** — 3D printer restoration and astronomy at [8020workshop.com](https://8020workshop.com)
