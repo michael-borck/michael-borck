@@ -1,7 +1,7 @@
 # Michael Borck
 
 <!-- BADGES:START -->
-[![cli-tools](https://img.shields.io/badge/-cli--tools-blue?style=flat-square)](https://github.com/topics/cli-tools) [![cybersecurity](https://img.shields.io/badge/-cybersecurity-f44336?style=flat-square)](https://github.com/topics/cybersecurity) [![desktop-apps](https://img.shields.io/badge/-desktop--apps-blue?style=flat-square)](https://github.com/topics/desktop-apps) [![developer-tools](https://img.shields.io/badge/-developer--tools-blue?style=flat-square)](https://github.com/topics/developer-tools) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![education](https://img.shields.io/badge/-education-blue?style=flat-square)](https://github.com/topics/education) [![presentations](https://img.shields.io/badge/-presentations-blue?style=flat-square)](https://github.com/topics/presentations) [![research](https://img.shields.io/badge/-research-3f51b5?style=flat-square)](https://github.com/topics/research) [![teaching-materials](https://img.shields.io/badge/-teaching--materials-blue?style=flat-square)](https://github.com/topics/teaching-materials) [![university](https://img.shields.io/badge/-university-blue?style=flat-square)](https://github.com/topics/university)
+[![cybersecurity](https://img.shields.io/badge/-cybersecurity-f44336?style=flat-square)](https://github.com/topics/cybersecurity) [![research](https://img.shields.io/badge/-research-3f51b5?style=flat-square)](https://github.com/topics/research) [![cli-tool](https://img.shields.io/badge/-cli--tool-blue?style=flat-square)](https://github.com/topics/cli-tool) [![curtin](https://img.shields.io/badge/-curtin-f57c00?style=flat-square)](https://github.com/topics/curtin) [![teaching](https://img.shields.io/badge/-teaching-blue?style=flat-square)](https://github.com/topics/teaching) [![ai](https://img.shields.io/badge/-ai-ff6f00?style=flat-square)](https://github.com/topics/ai) [![book](https://img.shields.io/badge/-book-795548?style=flat-square)](https://github.com/topics/book) [![desktop-app](https://img.shields.io/badge/-desktop--app-blue?style=flat-square)](https://github.com/topics/desktop-app) [![edu-tools](https://img.shields.io/badge/-edu--tools-blue?style=flat-square)](https://github.com/topics/edu-tools) [![maker](https://img.shields.io/badge/-maker-blue?style=flat-square)](https://github.com/topics/maker) [![presentation](https://img.shields.io/badge/-presentation-9c27b0?style=flat-square)](https://github.com/topics/presentation) [![web-app](https://img.shields.io/badge/-web--app-blue?style=flat-square)](https://github.com/topics/web-app)
 <!-- BADGES:END -->
 
 University lecturer, maker, and occasional sky-watcher.
@@ -16,19 +16,20 @@ I build educational tools, restore vintage 3D printers, and spend too much time 
 
 ## 📦 Browse by Topic
 
-| Topic | Description |
-|-------|-------------|
-| [`edtech`](https://github.com/michael-borck?tab=repositories&q=topic:edtech) | Educational tools and apps |
-| [`curtin`](https://github.com/michael-borck?tab=repositories&q=topic:curtin) | Curtin University teaching materials |
-| [`presentation`](https://github.com/michael-borck?tab=repositories&q=topic:presentation) | Workshop and talk materials |
-| [`exec-ed`](https://github.com/michael-borck?tab=repositories&q=topic:exec-ed) | Executive education materials |
-| [`cybersecurity`](https://github.com/michael-borck?tab=repositories&q=topic:cybersecurity) | Security labs and tools |
-| [`book`](https://github.com/michael-borck?tab=repositories&q=topic:book) | Book and textbook projects |
-| [`tool`](https://github.com/michael-borck?tab=repositories&q=topic:tool) | Developer utilities |
-| [`resume`](https://github.com/michael-borck?tab=repositories&q=topic:resume) | Resume variants and experiments |
-| [`research`](https://github.com/michael-borck?tab=repositories&q=topic:research) | Research projects |
-| [`website`](https://github.com/michael-borck?tab=repositories&q=topic:website) | Website related projects |
-
+| Topic | Repos | Description |
+|-------|-------|-------------|
+| [`web-app`](https://github.com/michael-borck?tab=repositories&q=topic:web-app) | 103 | Websites, static sites & web apps |
+| [`edu-tools`](https://github.com/michael-borck?tab=repositories&q=topic:edu-tools) | 92 | Educational & analysis tools |
+| [`ai`](https://github.com/michael-borck?tab=repositories&q=topic:ai) | 87 | AI, ML & LLM projects |
+| [`teaching`](https://github.com/michael-borck?tab=repositories&q=topic:teaching) | 46 | Course, curriculum & assessment materials |
+| [`cli-tool`](https://github.com/michael-borck?tab=repositories&q=topic:cli-tool) | 35 | Command-line & developer tools |
+| [`research`](https://github.com/michael-borck?tab=repositories&q=topic:research) | 27 | Papers & academic projects |
+| [`book`](https://github.com/michael-borck?tab=repositories&q=topic:book) | 25 | Books, textbooks & Quarto projects |
+| [`desktop-app`](https://github.com/michael-borck?tab=repositories&q=topic:desktop-app) | 23 | Electron desktop applications |
+| [`curtin`](https://github.com/michael-borck?tab=repositories&q=topic:curtin) | 20 | Curtin University materials |
+| [`presentation`](https://github.com/michael-borck?tab=repositories&q=topic:presentation) | 19 | Workshops, seminars & talks |
+| [`cybersecurity`](https://github.com/michael-borck?tab=repositories&q=topic:cybersecurity) | 17 | Security labs & forensics |
+| [`maker`](https://github.com/michael-borck?tab=repositories&q=topic:maker) | 5 | Astronomy, 3D printing & hardware |
 ## 🎮 Other Projects
 
 - [retroverse-studios](https://github.com/retroverse-studios) — Game development experiments
