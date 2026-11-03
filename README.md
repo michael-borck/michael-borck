@@ -55,24 +55,6 @@ Open-access books and textbooks on AI, programming, and security. Browse all at 
 
 </details>
 
-## 🧰 Toolkit
-
-```mermaid
-flowchart LR
-  GX[gx] --> GH[gh]
-  GX --> GT[gh-toolkit]
-  GX --> GITA[gita]
-  GX --> GR[git-reclaim]
-```
-
-| Tool | Role |
-|------|------|
-| [gh](https://cli.github.com/) | PRs, issues, Actions, releases |
-| [gh-toolkit](https://github.com/michael-borck/gh-toolkit) | Audit, tag, and present repositories |
-| [gita](https://github.com/nosarthur/gita) | Status and batch git across local clones |
-| [git-reclaim](https://github.com/michael-borck/git-reclaim) | Reclaim disk space across clones |
-| [gx](https://github.com/michael-borck/gx) | One verb set across all of them |
-
 <details>
 <summary>🌐 Around the Web</summary>
 
