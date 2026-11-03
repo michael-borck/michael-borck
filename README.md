@@ -28,7 +28,10 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [borck.education](https://borck.education) | Hub for my teaching properties |
 | [teach.borck.education](https://teach.borck.education) | Interactive course platform |
 | [books.borck.education](https://books.borck.education) | My books & textbooks |
-| [research.borck.dev](https://research.borck.dev) | Interactive research visualizations |
+| [programming.borck.education](https://programming.borck.education) | Learn to build software in the AI era |
+| [aitoys.borck.education](https://aitoys.borck.education) | AI Toys: small pages that break a misconception |
+| [security.borck.education](https://security.borck.education) | Self-contained security labs that run on your laptop |
+| [research.borck.dev](https://research.borck.dev) | Links to my research projects |
 | [simulations.borck.education](https://simulations.borck.education) | Physics & science simulations |
 | [8020workshop.com](https://8020workshop.com) | Maker blog & opinions |
 | [retroverse.studio](https://retroverse.studio) | Indie game studio |
