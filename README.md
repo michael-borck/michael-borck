@@ -31,17 +31,6 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 
 <sub>Updated November 2026</sub>
 
-## ⭐ Popular repositories
-
-| Repository | What it is |
-|------------|------------|
-| [study-buddy](https://github.com/michael-borck/study-buddy) | Offline AI tutoring app with local models |
-| [netsim](https://github.com/michael-borck/netsim) | Browser-based network simulator with real Linux syntax |
-| [talk-buddy](https://github.com/michael-borck/talk-buddy) | Conversation practice with an AI partner |
-| [slide-stream](https://github.com/michael-borck/slide-stream) | Turn Markdown and PowerPoint into narrated videos |
-| [ethical-hacking-docker-labs](https://github.com/michael-borck/ethical-hacking-docker-labs) | Containerised ethical hacking labs |
-| [gh-toolkit](https://github.com/michael-borck/gh-toolkit) | Audit, tag, and present GitHub repositories |
-
 ## 📚 Books
 
 <a href="https://books.borck.education"><img src="assets/books/books-contact-sheet.jpg" alt="Book covers"></a>
