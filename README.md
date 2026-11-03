@@ -33,9 +33,14 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 
 ## 📚 Books
 
+Open-access books and textbooks on AI, programming, and security. Browse all at [books.borck.education](https://books.borck.education).
+
+<details>
+<summary>Show book covers</summary>
+
 <a href="https://books.borck.education"><img src="assets/books/books-contact-sheet.jpg" alt="Book covers"></a>
 
-Open-access books and textbooks on AI, programming, and security. Browse all at [books.borck.education](https://books.borck.education).
+</details>
 
 <details>
 <summary>Animated covers</summary>
