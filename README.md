@@ -47,6 +47,25 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 
 ## 🏷️ How I tag repositories
 
+```mermaid
+flowchart LR
+  R[Repository] --> Q1{What is it?}
+  Q1 --> F1[web-app]
+  Q1 --> F2[desktop-app]
+  Q1 --> F3[cli]
+  Q1 --> F4[book]
+  R --> Q2{What is it about?}
+  Q2 --> D1[ai]
+  Q2 --> D2[education]
+  Q2 --> D3[cybersecurity]
+  Q2 --> D4[research]
+  Q2 --> D5[operations]
+  R --> T[1-2 free tags]
+```
+
+<details>
+<summary>Read the two-question model</summary>
+
 I use nine standard tags, split into two questions:
 
 | Question | Tags |
@@ -57,6 +76,8 @@ I use nine standard tags, split into two questions:
 A repo can answer both. A teaching web app about AI gets `web-app`, `education`,
 and `ai`. Free tags add the specifics, such as `quarto`, `docker-labs`, or
 `interactive-simulation`.
+
+</details>
 
 ## 📦 Browse by Topic
 
