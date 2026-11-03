@@ -6,8 +6,6 @@
 
 University lecturer, maker, and occasional sky-watcher. I build educational tools, run the LocoLab local-LLM research lab, restore vintage 3D printers, and spend too much time staring through telescopes.
 
-🔭 Currently: building **LocoLab** — running local LLMs on consumer hardware.
-
 ## 🔭 What I Do
 
 - **Teaching** — Business programming, Cybersecurity, and AI literacy
@@ -15,6 +13,23 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 - **Building** — Desktop apps and CLI tools for educators
 - **Research** — Local LLMs on consumer hardware (LocoLab)
 - **Making** — 3D printer restoration and astronomy at 8020workshop.com
+
+## 🚀 Start here
+
+| I am a... | Start with |
+|-----------|------------|
+| Educator | [tools.borck.education](https://tools.borck.education), [programminglabs.borck.education](https://programminglabs.borck.education), [teach.borck.education](https://teach.borck.education) |
+| Student | [programming.borck.education](https://programming.borck.education), [hands-on-ai](https://michael-borck.github.io/hands-on-ai/), [security.borck.education](https://security.borck.education) |
+| Researcher | [research.borck.dev](https://research.borck.dev), [locolabo.org](https://locolabo.org), [greatsilence.borck.education](https://greatsilence.borck.education) |
+| Client | [borck.consulting](https://borck.consulting), [teach.borck.education](https://teach.borck.education) |
+
+## 📍 Now
+
+- Building LocoLab on consumer hardware
+- Writing The Human Edge
+- Teaching the ISYS unit family
+
+<sub>Updated November 2026</sub>
 
 ## ⭐ Popular repositories
 
@@ -27,7 +42,39 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [ethical-hacking-docker-labs](https://github.com/michael-borck/ethical-hacking-docker-labs) | Containerised ethical hacking labs |
 | [gh-toolkit](https://github.com/michael-borck/gh-toolkit) | Audit, tag, and present GitHub repositories |
 
-## 🌐 Around the Web
+## 📚 Books
+
+<a href="https://books.borck.education"><img src="assets/books/books-contact-sheet.jpg" alt="Book covers"></a>
+
+Open-access books and textbooks on AI, programming, and security. Browse all at [books.borck.education](https://books.borck.education).
+
+<details>
+<summary>Animated covers</summary>
+
+![Book covers](assets/books/books-covers.gif)
+
+</details>
+
+## 🧰 Toolkit
+
+```mermaid
+flowchart LR
+  GX[gx] --> GH[gh]
+  GX --> GT[gh-toolkit]
+  GX --> GITA[gita]
+  GX --> GR[git-reclaim]
+```
+
+| Tool | Role |
+|------|------|
+| [gh](https://cli.github.com/) | PRs, issues, Actions, releases |
+| [gh-toolkit](https://github.com/michael-borck/gh-toolkit) | Audit, tag, and present repositories |
+| [gita](https://github.com/nosarthur/gita) | Status and batch git across local clones |
+| [git-reclaim](https://github.com/michael-borck/git-reclaim) | Reclaim disk space across clones |
+| [gx](https://github.com/michael-borck/gx) | One verb set across all of them |
+
+<details>
+<summary>🌐 Around the Web</summary>
 
 > **Start at [bigpicture.borck.dev](https://bigpicture.borck.dev)** — the map that ties my AI teaching, tools, and research together.
 
@@ -50,6 +97,8 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [simulations.borck.education](https://simulations.borck.education) | Physics & science simulations |
 | [8020workshop.com](https://8020workshop.com) | Maker blog & opinions |
 | [retroverse.studio](https://retroverse.studio) | Indie game studio |
+
+</details>
 
 ## 🧪 LocoLab — local LLMs on consumer hardware
 
@@ -97,7 +146,8 @@ and `ai`. Free tags add the specifics, such as `quarto`, `docker-labs`, or
 
 </details>
 
-## 📦 Browse by Topic
+<details>
+<summary>📦 Browse by Topic</summary>
 
 | Topic | Repos | Description |
 |-------|-------|-------------|
@@ -114,3 +164,13 @@ and `ai`. Free tags add the specifics, such as `quarto`, `docker-labs`, or
 | [`curtin`](https://github.com/michael-borck?tab=repositories&q=topic:curtin) | 20 | Free tag: Curtin University materials |
 | [`presentation`](https://github.com/michael-borck?tab=repositories&q=topic:presentation) | 19 | Free tag: workshops, seminars & talks |
 | [`maker`](https://github.com/michael-borck?tab=repositories&q=topic:maker) | 5 | Free tag: astronomy, 3D printing & hardware |
+
+</details>
+
+## 🤝 Work with me
+
+- Academic: [michael.borck@curtin.edu.au](mailto:michael.borck@curtin.edu.au)
+- Professional: [michael@borck.dev](mailto:michael@borck.dev)
+- Website: [borck.dev](https://borck.dev)
+- Consulting: [borck.consulting](https://borck.consulting)
+- Workshops and executive education: [teach.borck.education](https://teach.borck.education)
