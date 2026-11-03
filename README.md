@@ -82,19 +82,21 @@ Open-access books and textbooks on AI, programming, and security. Browse all at 
 
 </details>
 
-## 🧪 LocoLab — local LLMs on consumer hardware
+<details>
+<summary>🧪 LocoLabo — local AI on modest hardware</summary>
 
-[**locolabo.org**](https://locolabo.org) is the umbrella for my research lab running frontier-class models on modest hardware:
+[**locolabo.org**](https://locolabo.org) is an independent, self-funded applied AI research lab in Perth, Australia. It studies what local AI can do on secondhand hardware and builds tools that keep student and organisational data on-premises.
 
-| Project | Repo | Focus |
-|---------|------|-------|
-| [locollm.org](https://locollm.org) | `loco-llm` | Routed LoRA task-specific models |
-| [locoensayo.org](https://locoensayo.org) | `loco-ensayo` | Simulated business environments for student practice |
-| [lococonvoy.org](https://lococonvoy.org) | `loco-convoy` | Distributing inference across consumer GPUs |
-| [locopuente.org](https://locopuente.org) | `loco-puente` | Loco↔Puente integration bridge |
-| [locoagente.org](https://locoagente.org) | `loco-agente` | Conversational harness for verified task offloading |
+The work starts from a constraint: many institutions cannot send student work to cloud AI. LocoLabo builds the alternative, and studies the pedagogical position that follows: **Conversation, not Delegation**. Small local models are not a compromise for brainstorming, iteration, and critical dialogue. They are the right tool, and they keep the human thinking.
 
-## 🏷️ How I tag repositories
+The lab's work spans routed specialist models, VRAM-tier benchmarking, multi-GPU inference, simulated organisations for professional rehearsal, thinking-partner evaluation, and agentic scaffolding for small models.
+
+[Read more at locolabo.org](https://locolabo.org)
+
+</details>
+
+<details>
+<summary>🏷️ How I tag repositories</summary>
 
 ```mermaid
 flowchart LR
@@ -111,9 +113,6 @@ flowchart LR
   Q2 --> D5[operations]
   R --> T[1-2 free tags]
 ```
-
-<details>
-<summary>Read the two-question model</summary>
 
 I use nine standard tags, split into two questions:
 
