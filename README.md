@@ -26,11 +26,13 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [resume.borck.dev](https://resume.borck.dev) | 11 résumés from one YAML |
 | [borck.consulting](https://borck.consulting) | AI literacy, governance & data-sovereignty consulting |
 | [borck.education](https://borck.education) | Hub for my teaching properties |
-| [teach.borck.education](https://teach.borck.education) | Interactive course platform |
-| [books.borck.education](https://books.borck.education) | My books & textbooks |
+| [teach.borck.education](https://teach.borck.education) | Workshops, courses & executive education |
 | [programming.borck.education](https://programming.borck.education) | Learn to build software in the AI era |
+| [tools.borck.education](https://tools.borck.education) | Free, private AI tools for your classroom |
 | [aitoys.borck.education](https://aitoys.borck.education) | AI Toys: small pages that break a misconception |
 | [security.borck.education](https://security.borck.education) | Self-contained security labs that run on your laptop |
+| [books.borck.education](https://books.borck.education) | My books & textbooks |
+| [greatsilence.borck.education](https://greatsilence.borck.education) | Six frames for thinking about artificial intelligence at civilisational scale, borrowed from the search for aliens |
 | [research.borck.dev](https://research.borck.dev) | Links to my research projects |
 | [simulations.borck.education](https://simulations.borck.education) | Physics & science simulations |
 | [8020workshop.com](https://8020workshop.com) | Maker blog & opinions |
