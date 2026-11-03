@@ -28,7 +28,9 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [borck.education](https://borck.education) | Hub for my teaching properties |
 | [teach.borck.education](https://teach.borck.education) | Workshops, courses & executive education |
 | [programming.borck.education](https://programming.borck.education) | Learn to build software in the AI era |
+| [programminglabs.borck.education](https://programminglabs.borck.education) | Speak Software: programming at the newest abstraction level, yours. Twelve hands-on labs where you describe, an agent builds, and specification, verification, decomposition, and taste are the curriculum. Zero prior programming assumed. |
 | [tools.borck.education](https://tools.borck.education) | Free, private AI tools for your classroom |
+| [hands-on-ai](https://michael-borck.github.io/hands-on-ai/) | Your AI learning lab: a unified educational toolkit for teaching how modern AI systems actually work by building and interacting with them directly. Chat, RAG, agents, workflows, loops, and evals: six small, readable modules. |
 | [aitoys.borck.education](https://aitoys.borck.education) | AI Toys: small pages that break a misconception |
 | [security.borck.education](https://security.borck.education) | Self-contained security labs that run on your laptop |
 | [books.borck.education](https://books.borck.education) | My books & textbooks |
