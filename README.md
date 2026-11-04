@@ -105,15 +105,16 @@ flowchart LR
   Q2 --> D3[cybersecurity]
   Q2 --> D4[research]
   Q2 --> D5[operations]
+  Q2 --> D6[maker]
   R --> T[1-2 free tags]
 ```
 
-I use nine standard tags, split into two questions:
+I use ten standard tags, split into two questions:
 
 | Question | Tags |
 |----------|------|
 | What is it? | `web-app`, `desktop-app`, `cli`, `book` |
-| What is it about? | `ai`, `education`, `cybersecurity`, `research`, `operations` |
+| What is it about? | `ai`, `education`, `cybersecurity`, `research`, `operations`, `maker` |
 
 A repo can answer both. A teaching web app about AI gets `web-app`, `education`,
 and `ai`. Free tags add the specifics, such as `quarto`, `docker-labs`, or
@@ -126,19 +127,19 @@ and `ai`. Free tags add the specifics, such as `quarto`, `docker-labs`, or
 
 | Topic | Repos | Description |
 |-------|-------|-------------|
-| [`web-app`](https://github.com/michael-borck?tab=repositories&q=topic:web-app) | 128 | Websites, static sites & web apps |
-| [`desktop-app`](https://github.com/michael-borck?tab=repositories&q=topic:desktop-app) | 25 | Desktop applications |
+| [`web-app`](https://github.com/michael-borck?tab=repositories&q=topic:web-app) | 134 | Websites, static sites & web apps |
+| [`desktop-app`](https://github.com/michael-borck?tab=repositories&q=topic:desktop-app) | 26 | Desktop applications |
 | [`cli`](https://github.com/michael-borck?tab=repositories&q=topic:cli) | 40 | Command-line & developer tools |
 | [`book`](https://github.com/michael-borck?tab=repositories&q=topic:book) | 31 | Books, textbooks & Quarto projects |
-| [`ai`](https://github.com/michael-borck?tab=repositories&q=topic:ai) | 109 | AI, ML & LLM projects |
-| [`education`](https://github.com/michael-borck?tab=repositories&q=topic:education) | 144 | Teaching, course & assessment materials |
+| [`ai`](https://github.com/michael-borck?tab=repositories&q=topic:ai) | 117 | AI, ML & LLM projects |
+| [`education`](https://github.com/michael-borck?tab=repositories&q=topic:education) | 157 | Teaching, course & assessment materials |
 | [`cybersecurity`](https://github.com/michael-borck?tab=repositories&q=topic:cybersecurity) | 27 | Security labs & forensics |
-| [`research`](https://github.com/michael-borck?tab=repositories&q=topic:research) | 31 | Research projects & papers |
-| [`operations`](https://github.com/michael-borck?tab=repositories&q=topic:operations) | 10 | Private operating workspaces & indexes |
-| [`teaching`](https://github.com/michael-borck?tab=repositories&q=topic:teaching) | 50 | Free tag: course delivery & teaching practice |
+| [`research`](https://github.com/michael-borck?tab=repositories&q=topic:research) | 34 | Research projects & papers |
+| [`operations`](https://github.com/michael-borck?tab=repositories&q=topic:operations) | 12 | Private operating workspaces & indexes |
+| [`maker`](https://github.com/michael-borck?tab=repositories&q=topic:maker) | 5 | Hardware, fabrication, 3D printing, astronomy equipment |
+| [`teaching`](https://github.com/michael-borck?tab=repositories&q=topic:teaching) | 42 | Free tag: course delivery & teaching practice |
 | [`curtin`](https://github.com/michael-borck?tab=repositories&q=topic:curtin) | 20 | Free tag: Curtin University materials |
 | [`presentation`](https://github.com/michael-borck?tab=repositories&q=topic:presentation) | 19 | Free tag: workshops, seminars & talks |
-| [`maker`](https://github.com/michael-borck?tab=repositories&q=topic:maker) | 5 | Free tag: astronomy, 3D printing & hardware |
 
 </details>
 
