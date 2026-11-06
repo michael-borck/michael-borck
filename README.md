@@ -36,23 +36,25 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 Open-access books and textbooks on AI, programming, and security. Browse all at [books.borck.education](https://books.borck.education).
 
 <details>
-<summary>Show book covers</summary>
+<summary>See the covers</summary>
 
 <a href="https://books.borck.education"><img src="assets/books/books-contact-sheet.jpg" alt="Book covers"></a>
 
 </details>
 
 <details>
-<summary>Animated covers</summary>
+<summary>See the animated covers</summary>
 
 ![Book covers](assets/books/books-covers.gif)
 
 </details>
 
-<details>
-<summary>🌐 Around the Web</summary>
+## 🌐 Around the Web
 
-> **Start at [bigpicture.borck.dev](https://bigpicture.borck.dev)** — the map that ties my AI teaching, tools, and research together.
+Start at [bigpicture.borck.dev](https://bigpicture.borck.dev), the map that ties my AI teaching, tools, and research together.
+
+<details>
+<summary>See all sites</summary>
 
 | Site | What it is |
 |------|------------|
@@ -76,10 +78,12 @@ Open-access books and textbooks on AI, programming, and security. Browse all at 
 
 </details>
 
-<details>
-<summary>🧪 LocoLabo — local AI on modest hardware</summary>
+## 🧪 LocoLabo — local AI on modest hardware
 
-[**locolabo.org**](https://locolabo.org) is an independent, self-funded applied AI research lab in Perth, Australia. It studies what local AI can do on secondhand hardware and builds tools that keep student and organisational data on-premises.
+LocoLabo is an independent, self-funded applied AI research lab in Perth, studying what local AI can do on secondhand hardware.
+
+<details>
+<summary>Read the LocoLabo note</summary>
 
 The work starts from a constraint: many institutions cannot send student work to cloud AI. LocoLabo builds the alternative, and studies the pedagogical position that follows: **Conversation, not Delegation**. Small local models are not a compromise for brainstorming, iteration, and critical dialogue. They are the right tool, and they keep the human thinking.
 
@@ -89,8 +93,12 @@ The lab's work spans routed specialist models, VRAM-tier benchmarking, multi-GPU
 
 </details>
 
+## 🏷️ How I tag repositories
+
+I ask two questions: what is it, and what is it about?
+
 <details>
-<summary>🏷️ How I tag repositories</summary>
+<summary>See the tag model</summary>
 
 ```mermaid
 flowchart LR
@@ -122,8 +130,12 @@ and `ai`. Free tags add the specifics, such as `quarto`, `docker-labs`, or
 
 </details>
 
+## 📦 Browse by Topic
+
+Browse the portfolio by standard tag or common free tag.
+
 <details>
-<summary>📦 Browse by Topic</summary>
+<summary>See the topic map</summary>
 
 | Topic | Repos | Description |
 |-------|-------|-------------|
