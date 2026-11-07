@@ -39,6 +39,20 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [Speak Software](https://programminglabs.borck.education) | Twelve labs where you describe, an agent builds, and the human skills are the curriculum |
 | [HandsOnAI](https://michael-borck.github.io/hands-on-ai/) | Six small modules for how modern AI systems work |
 
+## ⭐ Featured repository
+
+[🎲 Pick a random repository](https://borck.dev/random/)
+
+<!-- FEATURED:START -->
+### [study-buddy](https://github.com/michael-borck/study-buddy)
+
+Offline AI tutoring app with local models.
+
+`TypeScript` · ⭐ 23 · `ai` `education` `desktop-app`
+
+[Explore the repository →](https://github.com/michael-borck/study-buddy)
+<!-- FEATURED:END -->
+
 ## 📍 Now
 
 - Building LocoLabo on consumer hardware
