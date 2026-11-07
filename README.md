@@ -44,13 +44,13 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 [🎲 Pick a random repository](https://borck.dev/random/)
 
 <!-- FEATURED:START -->
-### [study-buddy](https://github.com/michael-borck/study-buddy)
+### [lectern](https://github.com/michael-borck/lectern)
 
-Offline AI tutoring app with local models.
+Lectern enables developers to build and manage documentation sites using modular components and a flexible content structure.
 
-`TypeScript` · ⭐ 23 · `ai` `education` `desktop-app`
+`JavaScript` · `documentation-generator` · `static-site-builder` · `web-app`
 
-[Explore the repository →](https://github.com/michael-borck/study-buddy)
+[Explore the repository →](https://github.com/michael-borck/lectern)
 <!-- FEATURED:END -->
 
 ## 📍 Now
