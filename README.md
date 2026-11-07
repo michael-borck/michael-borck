@@ -26,7 +26,7 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | Educator | [tools.borck.education](https://tools.borck.education), [programminglabs.borck.education](https://programminglabs.borck.education), [teach.borck.education](https://teach.borck.education) |
 | Student | [programming.borck.education](https://programming.borck.education), [hands-on-ai](https://michael-borck.github.io/hands-on-ai/), [security.borck.education](https://security.borck.education) |
 | Researcher | [research.borck.dev](https://research.borck.dev), [locolabo.org](https://locolabo.org), [greatsilence.borck.education](https://greatsilence.borck.education) |
-| Maker | [8020workshop.com](https://8020workshop.com), [thelittleperthobservatory](https://github.com/michael-borck/thelittleperthobservatory) |
+| Maker | [8020workshop.com](https://8020workshop.com), [locofosil.org](https://locofosil.org) |
 | Partner | [locolabo.org](https://locolabo.org), [borck.consulting](https://borck.consulting) |
 | Client | [borck.consulting](https://borck.consulting), [teach.borck.education](https://teach.borck.education) |
 
