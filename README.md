@@ -32,15 +32,15 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 
 ## 📊 By the numbers
 
-| **302** | **14** | **15,000** | **5** |
-|:---:|:---:|:---:|:---:|
-| repositories | books | student AI conversations | semesters |
+| **302** | **14** | **5** |
+|:---:|:---:|:---:|
+| repositories | books | semesters of teaching |
 
 ## 🧭 Featured work
 
 | Work | What it is |
 |------|------------|
-| [LocoLabo](https://locolabo.org) | Local AI on secondhand hardware; 15,000 student AI conversations analysed |
+| [LocoLabo](https://locolabo.org) | Local AI on secondhand hardware, from 2 GB GPUs to multi-GPU inference |
 | [Assume Breach](https://github.com/michael-borck/assume-breach) | Open-access defensive security book and container labs |
 | [Speak Software](https://programminglabs.borck.education) | Twelve labs where you describe, an agent builds, and the human skills are the curriculum |
 | [HandsOnAI](https://michael-borck.github.io/hands-on-ai/) | Six small modules for how modern AI systems work |
