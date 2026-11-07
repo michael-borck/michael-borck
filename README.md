@@ -14,10 +14,10 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 
 ## 🔭 What I Do
 
-- **Teaching** — Business programming, Cybersecurity, and AI literacy
-- **Building** — Local AI tools, books, and classroom software
-- **Research** — LocoLabo: local AI on secondhand hardware
-- **Making** — 3D printer restoration and astronomy at 8020workshop.com
+- **Teaching** — Business programming, Cybersecurity, and AI literacy at [teach.borck.education](https://teach.borck.education)
+- **Building** — Local AI tools, books, and classroom software at [tools.borck.education](https://tools.borck.education)
+- **Research** — [LocoLabo](https://locolabo.org): local AI on secondhand hardware
+- **Making** — 3D printer restoration and astronomy at [8020workshop.com](https://8020workshop.com)
 
 ## 🚀 Start here
 
@@ -55,9 +55,9 @@ Lectern enables developers to build and manage documentation sites using modular
 
 ## 📍 Now
 
-- Building LocoLabo on consumer hardware
-- Writing The Human Edge
-- Teaching the ISYS unit family
+- Building [LocoLabo](https://locolabo.org) on consumer hardware
+- Writing [The Human Edge](https://thehumanedge.borck.dev)
+- Teaching the ISYS unit family at [programming.borck.education](https://programming.borck.education)
 - Publishing field notes at [loconotas.org](https://loconotas.org)
 
 <sub>Updated November 2026</sub>
