@@ -30,12 +30,6 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | Partner | [locolabo.org](https://locolabo.org), [borck.consulting](https://borck.consulting) |
 | Client | [borck.consulting](https://borck.consulting), [teach.borck.education](https://teach.borck.education) |
 
-## 📊 By the numbers
-
-| **302** | **14** | **5** |
-|:---:|:---:|:---:|
-| repositories | books | semesters of teaching |
-
 ## 🧭 Featured work
 
 | Work | What it is |
