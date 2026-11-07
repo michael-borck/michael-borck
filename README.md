@@ -39,7 +39,7 @@ University lecturer, maker, and occasional sky-watcher. I build educational tool
 | [Speak Software](https://programminglabs.borck.education) | Twelve labs where you describe, an agent builds, and the human skills are the curriculum |
 | [HandsOnAI](https://michael-borck.github.io/hands-on-ai/) | Six small modules for how modern AI systems work |
 
-## ⭐ Featured repository
+## ⭐ Featured repository (changes each week)
 
 [🎲 Pick a random repository](https://borck.dev/random/)
 
